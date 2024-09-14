@@ -1,0 +1,38 @@
+{
+  "ItemData": [
+    {
+      "id": "1",
+      "name": "Mobile",
+      "price": "21200",
+      "quantity": "1",
+      "amount": 20000
+    },
+    {
+      "id": "2",
+      "name": "TV",
+      "price": "60000",
+      "quantity": "1",
+      "amount": 60000
+    }
+  ],
+  "SuggestionData": [
+    {
+      "id": "1",
+      "name": "Pasta",
+      "price": "125",
+      "quantity": "2"
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "price": "150",
+      "quantity": "1"
+    },
+    {
+      "id": "3",
+      "name": "Burger",
+      "price": "199",
+      "quantity": "2"
+    }
+  ]
+}
